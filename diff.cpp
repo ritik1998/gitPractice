@@ -6,5 +6,7 @@ int main(){
 	int c=a-b;
 	cout<<c;
 
+	cout << "ritik Jain";
+
 	return 0;
 }
